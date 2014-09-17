@@ -29,6 +29,8 @@ object HelloScalaApp extends App {
 	Console.println(1 + 2 * 3 / 4)
 	println((1).+((2).*(3)./(4)))
 	
+	// test 0
+	
 //	oncePerSecond(() => {
 //	  println("time files like an arrow...")
 //	})
