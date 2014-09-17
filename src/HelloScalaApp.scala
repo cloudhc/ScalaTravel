@@ -57,5 +57,9 @@ object HelloScalaApp extends App {
 	
 	def test() {
 	  // test
-	}	
+	} 
+	
+	def op() {
+	   // op
+	}
 }
