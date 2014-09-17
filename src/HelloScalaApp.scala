@@ -50,4 +50,6 @@ object HelloScalaApp extends App {
 	// test 5
 	
 	// test 6
+	
+	// test 7
 }
